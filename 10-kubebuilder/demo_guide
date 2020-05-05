@@ -1,0 +1,1 @@
+1. tasks: 通过kubebuilder创建一个CRD的 kind 和 控制器，并通过该控制器实现资源的实例化
